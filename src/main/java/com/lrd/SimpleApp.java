@@ -20,7 +20,7 @@ import java.util.*;
 public class SimpleApp {
     public static void main(String[] args) {
         SimpleApp app = new SimpleApp();
-        app.test2();
+        app.test1();
     }
 
     void test1(){
