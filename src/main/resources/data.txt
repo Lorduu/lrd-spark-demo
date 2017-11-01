@@ -2,10 +2,3 @@ test1
 haha1
 haha2
 haha3
-a
-b
-c
-a
-b
-a
-haha
