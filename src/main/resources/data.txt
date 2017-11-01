@@ -1,5 +1,6 @@
 test1
 haha1
+haha2
 a
 b
 c
